@@ -1,0 +1,53 @@
+
+. . . 
+. . . 
+. . . 
+
+Enter Coordinates Where To Go Separated By A Space...
+1
+1
+
+X . . 
+. . . 
+. . . 
+AI is moving ... 
+
+X . . 
+. O . 
+. . . 
+
+Enter Coordinates Where To Go Separated By A Space...
+3
+3
+
+X . . 
+. O . 
+. . X 
+AI is moving ... 
+
+X . O 
+. O . 
+. . X 
+
+Enter Coordinates Where To Go Separated By A Space...
+3
+1
+
+X . O 
+. O . 
+X . X 
+AI is moving ... 
+
+X . O 
+O O . 
+X . X 
+
+Enter Coordinates Where To Go Separated By A Space...
+3
+2
+
+X . O 
+O O . 
+X X X 
+
+The winner is X
